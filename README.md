@@ -6,9 +6,9 @@ I can cook, but you don't care, see below...
 ## IT
 I've learned:
 ### Languages
-**C**, microcontroller-oriented **C++**, **Java**, **HTML5**, basic **CSS**, **JS**, **SQL**, **VB.NET**, **Bash**
+**C**, microcontroller-oriented **C++**, **Java**, **HTML5**, basic **CSS**, **JavaScript**, **Bash**, **SQL**, **VB.NET**
 ### Runtime Environments
-**node.js**
+**node.js** (modules: prisma, mongoose,...)
 ### Frameworks
 **Express.js**
 ### Database Engines
