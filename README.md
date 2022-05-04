@@ -22,4 +22,4 @@ I've learned:
 - Translating/subtitling stuff (error 404, not doing that anymore)
 
 ## What's new?
-I'm learning more about node.js, git, MongoDB, MQTT, jQuery
+I'm continuing my efforts in learning more node.js, express, git, MongoDB, MQTT and jQuery.
