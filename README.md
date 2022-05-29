@@ -7,6 +7,8 @@ I can cook, but you don't care, so see below...
 I've learned:
 ### Languages
 **C**, microcontroller-oriented **C++**, **Java**, **HTML5**, basic **CSS**, **JavaScript**, **TypeScript**, **SQL**, **Bash**, **VB.NET**
+### Platforms
+**Windows**, **Red Hat**, **Ubuntu**, **Raspberry**, **Arduino**
 ### Runtime Environments
 **node.js**
 ### Database Engines
