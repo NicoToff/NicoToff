@@ -14,18 +14,20 @@ I've learned:
 ### Runtime Environments
 **node.js**
 ### Database Engines
-**SQLite**, **MongoDB**
+*MySQL**, **SQLite**, **MongoDB**
 ### ORMs
 **prisma**, **mongoose**
-### Frameworks
-**Express.js**
+### Frontend frameworks
+**React**
+### Back-end/ Full stack Frameworks
+**Next.js**, **Express.js**
 ### Network protocols
 **MQTT**, **HTTP**, **HTTPS**
 ### DBMS
-**MySQL**
+**MySQL Workbench**
 ## Other skills
 - Speak/write **English**, **Italian**, **French**
 - Translating/subtitling stuff (error 404, not doing that anymore)
 
 ## What's new?
-I'm continuing my efforts in learning more node.js, express, TypeScript, git, SQLite, MQTT and jQuery.
+I'm continuing my efforts in learning more about Next.js, React, Typescript and prisma.
