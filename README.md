@@ -8,23 +8,24 @@ I can cook, but you don't care, so see below...
 ## IT
 I've learned:
 ### Languages
-**C**, microcontroller-oriented **C++**, **Java**, **HTML5**, basic **CSS**, **JavaScript**, **TypeScript**, **SQL**, **Bash**, **VB.NET**
-### Platforms
-**Windows**, **Red Hat**, **Ubuntu**, **Raspberry**, **Arduino**
+**JavaScript**, **TypeScript**, **HTML5**, basic **CSS**, **C**, microcontroller-oriented **C++**, **Java**, **SQL**, **Bash**, **VB.NET**, **Python**
 ### Runtime Environments
 **node.js**
-### Database Engines
-*MySQL**, **SQLite**, **MongoDB**
-### ORMs
-**prisma**, **mongoose**
 ### Frontend frameworks
 **React**
 ### Back-end/ Full stack Frameworks
 **Next.js**, **Express.js**
+### Database Engines
+*MySQL**, **SQLite**, **MongoDB**
+### ORMs
+**prisma**, **mongoose**
 ### Network protocols
 **MQTT**, **HTTP**, **HTTPS**
 ### DBMS
 **MySQL Workbench**
+### Platforms
+**Windows**, **Red Hat**, **Ubuntu**, **Raspberry**, **Arduino**
+
 ## Other skills
 - Speak/write **English**, **Italian**, **French**
 - Translating/subtitling stuff (error 404, not doing that anymore)
